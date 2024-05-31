@@ -1,2 +1,2 @@
 # Calculator
-A Workable Calculator using HTML &amp; CSS
+A Workable Calculator using js,HTML &amp; CSS
